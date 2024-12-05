@@ -5,7 +5,7 @@ date = "2024-08-30T19:54:02+00:00"
 tags = ["blog"]
 draft = false
 author = "admin"
-
+summary = "L'importance de la communication dans la gestion de projet, en soulignant qu'une gestion efficace de la communication interne et externe est cruciale pour le succès de tout projet."
 +++
 
 ---

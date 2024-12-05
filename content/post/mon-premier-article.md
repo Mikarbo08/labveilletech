@@ -4,7 +4,7 @@ date = "2024-08-30T19:54:02+00:00"
 tags = ["blog"]
 draft = false
 author = "admin"
-
+summary = "L’importance d’un plan de communication structuré pour garantir la réussite de tout projet, qu’il soit interne ou externe."
 +++
 ---
 
