@@ -25,10 +25,8 @@ Ce site a été développé avec **Hugo**, un générateur de site statique. Voi
 - **Choix du framework** : Hugo a été choisi pour sa **rapidité** et sa **flexibilité**, permettant de créer un site performant avec une gestion simple du contenu.
 - **Déploiement** : Le site est hébergé sur Github, assurant un **chargement rapide** et une **expérience utilisateur fluide**.
 
-J'espère que ce site vous plaira et qu'il saura répondre à vos attentes. Si vous avez des questions ou des suggestions, n'hésitez pas à me contacter !
 ---
-micaelribeiro2727@gmail.com
----
-
+J'espère que ce site vous plaira et qu'il saura répondre à vos attentes. 
+Si vous avez des questions ou des suggestions, n'hésitez pas à me contacter ! *micaelribeiro2727@gmail.com*
 
 Merci pour votre visite !
