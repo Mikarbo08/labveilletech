@@ -1,23 +1,21 @@
 +++
 title = "Mon Système de Veille : Abonnements et Routine"
-date = "2017-08-30T19:34:02+00:00"
+date = "2024-11-22T19:34:02+00:00"
 tags = ["blog"]
 draft = false
-author = "admin"
+author = "Micael"
 summary = "Dans cet article, je vais vous partager mon système de veille, qui me permet de rester constamment informé des dernières tendances dans mon domaine de prédilection : la gestion de projet et le digital."
 +++
 
-
-### 📚 **Mon Système de Veille : Abonnements et Routine**  
 ---
 
 ### 📝 **Résumé du contenu**  
 Dans cet article, je vais vous partager mon système de veille, qui me permet de rester constamment informé des dernières tendances dans mon domaine de prédilection : la gestion de projet et le digital. Grâce à une routine bien établie et à une sélection rigoureuse de sources fiables, j’optimise mon apprentissage quotidien.  
 
 Voici un aperçu de mes principales habitudes et abonnements :  
-- **Abonnements à des blogs spécialisés** : Pour suivre les tendances et les bonnes pratiques du secteur.  
+- **Abonnements à des profils Linkedin** : Pour suivre les tendances et les bonnes pratiques dans le domaine.  
 - **Utilisation de newsletters** : Ces outils me permettent de recevoir des résumés d'articles, des études de cas et des rapports de manière régulière.  
-- **Alertes Google et flux RSS** : Afin de capter l'actualité en temps réel et de m'assurer de ne rien manquer.  
+- **Alertes Google** : Afin de capter l'actualité en temps réel et de m'assurer de ne rien manquer.  
 
 Mon système de veille repose sur une sélection ciblée d'informations pertinentes qui enrichissent mes projets et mes connaissances en continu.  
 
@@ -27,10 +25,10 @@ Mon système de veille repose sur une sélection ciblée d'informations pertinen
 En tant que futur **chef de projet digital**, la veille est essentielle pour **rester compétitif** dans un environnement qui évolue rapidement. 🚀  
 
 #### 1. **Optimisation de la gestion de projet**  
-📚 Les **sources spécialisées** m’aident à affiner ma gestion de projet, que ce soit en termes de méthodologie agile ou d'outils numériques pour la collaboration à distance.  
+📚 Les **profils sur Linkedin** m’aident à affiner ma gestion de projet, que ce soit en termes de méthodologie agile ou d'outils numériques pour la collaboration à distance.  
 
 #### 2. **Gain de temps et efficacité**  
-🕒 L'automatisation de ma veille avec **flux RSS et alertes** me permet de gagner du temps en recevant directement l'information qui m'intéresse sans avoir à chercher manuellement.  
+🕒 L'automatisation de ma veille avec **les alertes** me permet de gagner du temps en recevant directement l'information qui m'intéresse sans avoir à chercher manuellement.  
 
 #### 3. **Mise à jour continue des connaissances**  
 🔄 Avec une routine bien rodée, je suis capable de **mettre à jour mes compétences** en gestion de projet de façon régulière et d’intégrer les dernières innovations ou outils en cours de développement.  

@@ -1,15 +1,12 @@
 +++
 title = "L'impact de l'intelligence artificielle (IA) sur la gestion de projet"
-date = "2017-08-30T19:44:02+00:00"
+date = "2024-11-30T19:44:02+00:00"
 tags = ["blog"]
 draft = false
-author = "admin"
+author = "Micael"
 summary = "L'impact croissant de l'intelligence artificielle (IA) sur la gestion de projet."
 +++
-
-### 📚 **L'impact de l'intelligence artificielle (IA) sur la gestion de projet**  
-_Source : [Blog de gestion de projet](https://www.qrpinternational.fr/blog/gestion-de-projet/intelligence-artificielle-sur-la-gestion-de-projet/#:~:text=L'intelligence%20artificielle%20v%C3%A9rifiera%20si,la%20r%C3%A9alisation%20de%20ses%20objectifs.)_  
-
+_Source : [qrpinternational](https://www.qrpinternational.fr/blog/gestion-de-projet/intelligence-artificielle-sur-la-gestion-de-projet/#:~:text=L'intelligence%20artificielle%20v%C3%A9rifiera%20si,la%20r%C3%A9alisation%20de%20ses%20objectifs.)_  
 ---
 
 ### 📝 **Résumé du contenu**  

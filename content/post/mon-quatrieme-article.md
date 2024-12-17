@@ -1,15 +1,13 @@
 +++
 title = "Webmardi : La Réunion des Passionnés du Digital"
-date = "2024-08-30T19:54:02+00:00"
+date = "2024-11-17T19:54:02+00:00"
 tags = ["blog"]
 draft = false
-author = "admin"
+author = "Micael"
 summary = "Webmardi est un événement régulier en Suisse romande, spécialement conçu pour les passionnés du web et du numérique. Il propose des rencontres mensuelles réunissant des experts et des professionnels du secteur pour discuter des dernières tendances en matière de marketing digital, de SEO, de design web et d’innovation numérique."
 +++
-
-### 📚 **Webmardi : La Réunion des Passionnés du Digital**  
+---
 _Source : [Webmardi](https://webmardi.ch)_  
-
 ---
 
 ### 📝 **Résumé du contenu**  

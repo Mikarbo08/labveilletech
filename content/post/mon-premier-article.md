@@ -7,12 +7,8 @@ author = "Micael"
 summary = "L’importance d’un plan de communication structuré pour garantir la réussite de tout projet, qu’il soit interne ou externe."
 +++
 ---
-
-### 📚 **Réussir son Projet de Plan de Communication : 7 Clés Indispensables**  
 _Source : [Bubble Plan](https://bubbleplan.net/blog/plan-communication-gestion-projet-top7/)_
-
 ---
-
 ### 📝 **Résumé du contenu**  
 Cet article souligne l’importance d’un **plan de communication structuré** pour garantir la réussite de tout projet, qu’il soit interne ou externe. Il propose 7 étapes clés pour concevoir un plan efficace, en insistant sur des éléments essentiels :  
 
@@ -54,5 +50,3 @@ En tant que futur **chef de projet digital et communication**, cet article offre
 Cet article est un excellent point de départ pour développer mes compétences en **gestion de projet**, en **communication stratégique**, et pour maîtriser des outils qui me seront précieux tout au long de ma carrière. 💡✨
 
 --- 
-
-J'espère que cette version correspond à ce que vous attendiez, tout en étant plus agréable à lire et structurée ! 😊

@@ -1,18 +1,15 @@
 
 +++
 title = "Réussir sa gestion de projet avec la communication"
-date = "2024-08-30T19:54:02+00:00"
+date = "2024-11-25T19:54:02+00:00"
 tags = ["blog"]
 draft = false
-author = "admin"
+author = "Micael"
 summary = "L'importance de la communication dans la gestion de projet, en soulignant qu'une gestion efficace de la communication interne et externe est cruciale pour le succès de tout projet."
 +++
 
 ---
-
-### 📚 **Réussir sa gestion de projet avec la communication**  
 _Source : [Skills4All](https://www.skills4all.com/reussir-sa-gestion-de-projet-avec-la-communication/)_
-
 ---
 
 ### 📝 **Résumé du contenu**  
