@@ -1,9 +1,9 @@
 +++
 title = "Réussir son Projet de Plan de Communication : 7 Clés Indispensables"
-date = "2024-08-30T19:54:02+00:00"
+date = "2024-11-22T19:54:02+00:00"
 tags = ["blog"]
 draft = false
-author = "admin"
+author = "Micael"
 summary = "L’importance d’un plan de communication structuré pour garantir la réussite de tout projet, qu’il soit interne ou externe."
 +++
 ---
